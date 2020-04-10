@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/domain/Medikamente.h
+iostream
+-
+
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/repository/MedikamenteRepository.cpp
+MedikamenteRepository.h
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/repository/MedikamenteRepository.h
+bits/stdc++.h
+-
+algorithm
+-
+string
+-
+vector
+-
+iostream
+-
+
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/repository/MedikamenteRepository.h
+vector
+-
+MedikamenteRepository.h
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/repository/MedikamenteRepository.h
+../domain/Medikamente.h
+E:/Clion_Projects/OOP/Laborator4/Laborator4/src/domain/Medikamente.h
+

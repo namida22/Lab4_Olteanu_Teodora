@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Laborator4" targetName="Laborator_4_run" />
+      <config projectName="Laborator4" targetName="gtest_main" />
+      <config projectName="Laborator4" targetName="gmock_main" />
+      <config projectName="Laborator4" targetName="gtest" />
+      <config projectName="Laborator4" targetName="Google_Tests_run" />
+      <config projectName="Laborator4" targetName="gmock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ca19340-8484-4828-b8cd-545b64ecaf57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAZWLZzNv7gFm42J8IrlcZwHVH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab4" />
+  </component>
+  <component name="RunManager" selected="Google Test.MedikamenteControllerTest.DeleteMedikament">
+    <configuration name="MedikamenteControllerTest.AddAndFindMedikament" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laborator4" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="MedikamenteControllerTest" TEST_METHOD="AddAndFindMedikament" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedikamenteControllerTest.DeleteMedikament" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laborator4" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="MedikamenteControllerTest" TEST_METHOD="DeleteMedikament" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laborator_4_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="Laborator_4_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laborator4" RUN_TARGET_NAME="Laborator_4_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator4" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Laborator_4_run" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.MedikamenteControllerTest.AddAndFindMedikament" />
+      <item itemvalue="Google Test.MedikamenteControllerTest.DeleteMedikament" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.MedikamenteControllerTest.DeleteMedikament" />
+        <item itemvalue="Google Test.MedikamenteControllerTest.AddAndFindMedikament" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ca19340-8484-4828-b8cd-545b64ecaf57" name="Default Changelist" comment="" />
+      <created>1586180388946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586180388946</updated>
+      <workItem from="1586180392852" duration="4202000" />
+      <workItem from="1586267030443" duration="9951000" />
+      <workItem from="1586365095343" duration="883000" />
+      <workItem from="1586452033785" duration="57000" />
+      <workItem from="1586452133681" duration="1964000" />
+      <workItem from="1586454450035" duration="13220000" />
+      <workItem from="1586500085290" duration="8567000" />
+      <workItem from="1586510755577" duration="87000" />
+      <workItem from="1586510886873" duration="15199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="123" key="FileChooserDialogImpl" timestamp="1586510072490">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="125" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586510072490" />
+    <state width="1323" height="374" key="GridCell.Tab.0.bottom" timestamp="1586527510846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="374" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586527510846" />
+    <state width="1323" height="374" key="GridCell.Tab.0.center" timestamp="1586527510846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="374" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586527510846" />
+    <state width="1323" height="374" key="GridCell.Tab.0.left" timestamp="1586527510846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="374" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586527510846" />
+    <state width="1323" height="374" key="GridCell.Tab.0.right" timestamp="1586527510846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="374" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586527510846" />
+    <state x="395" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1586500099860">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="200" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586500099860" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1586467270132">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1586467270132" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/repository/MedikamenteRepository.h</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
